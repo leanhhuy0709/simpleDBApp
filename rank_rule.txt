@@ -1,0 +1,23 @@
+Rank 0: 100
+Rank 1: 500
+Rank 2: 1000
+Rank 3: 2000
+Rank 4: 5000
+Rank 5: 7500
+Rank 6: 10000
+Rank 7: 15000
+Rank 8: 20000
+Rank 9: 50000
+Rank 10: 100000
+//Số tiền đã dùng để mua hàng tương ứng = sRank 0: 100
+Rank 1: 500
+Rank 2: 1000
+Rank 3: 2000
+Rank 4: 5000
+Rank 5: 7500
+Rank 6: 10000
+Rank 7: 15000
+Rank 8: 20000
+Rank 9: 50000
+Rank 10: 100000
+//Số tiền đã dùng để mua hàng tương ứng = số kinh nghiệm có đượcố kinh nghiệm có được
